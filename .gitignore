@@ -1,0 +1,16 @@
+
+natives/
+
+.minecraft/screenshots/
+.minecraft/saves/
+.minecraft/mods/
+.minecraft/logs/
+.minecraft/journeymap/
+.minecraft/.mixin.out/
+.minecraft/crash-reports/
+
+.minecraft/reauth.toml
+
+.minecraft/usercache.json
+
+.minecraft/usernamecache.json

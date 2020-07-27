@@ -1,0 +1,14 @@
+{
+  "name": "Hoarderium",
+  "type": "resource",
+  "tier": "mysticalagriculture:5",
+  "ingredient": {
+    "item": "hoarders_unite_core:hoarder_ium_ore_block"
+  },
+  "color": "974B97",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_dust",
+    "essence": "mysticalagriculture:item/essence_gem"
+  },
+  "crux": "mysticalagriculture:supremium_farmland"
+}

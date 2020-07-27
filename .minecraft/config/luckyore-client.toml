@@ -1,0 +1,9 @@
+
+[general]
+	#Should Zombies Drop Lucky Dust as rare as an Iron Ingot
+	doZombieDrops = true
+	#enable Nether Lucky Ore Generation
+	enableNetherLuckyOreGen = true
+	#enable Lucky Ore Generation
+	enableLuckyOreGen = true
+

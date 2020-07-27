@@ -1,0 +1,96 @@
+
+[Berry_Bush]
+
+	[Berry_Bush.Drop_Rates]
+		"Quartz Nuggets" = 1
+		"Fire Nuggets" = 1
+		"Ice Nuggets" = 1
+		"Iron Nuggets" = 1
+		"Wooden Nuggets" = 1
+		"Diamond Nuggets" = 1
+		"Coal Nuggets" = 1
+		"Redstone Nuggets" = 1
+		"XP Orbs" = 64
+		"Emerald Nuggets" = 1
+		"Lapis Nuggets" = 1
+		"Gold Nuggets" = 1
+
+	[Berry_Bush.Damage_Setting]
+		"Berry Bushes do damage" = true
+		"Berry Bushes attack power modifier" = 1
+
+[Traps]
+	"Iron monster trap attack power modifier" = 6
+	"Goldern monster trap attack power modifier" = 4
+	"Diamond monster trap attack power modifier" = 7
+	"Wither monster trap attack power modifier" = 320
+
+[Magnet]
+	#Magnet max pickup range modifier.
+	#Range: 1 ~ 16
+	"Pickup Range" = 8
+
+[Skyblock_Mode]
+	"SkyBlock mode" = true
+
+[Bookshelf]
+	#Enchant power level modifier.
+	#Range: 1 ~ 16
+	"Enchant Level" = 1
+
+[3x3_Tools]
+
+	[3x3_Tools.Speed]
+		#Range: 1.0 ~ 10.0
+		"Stone Tier speed modifier" = 4.5
+		#Range: 1.0 ~ 10.0
+		"Iron Tier speed modifier" = 3.5
+		#Range: 1.0 ~ 10.0
+		"Golden Tier speed modifier" = 2.0
+		#Range: 1.0 ~ 10.0
+		"Diamond Tier speed modifier" = 2.0
+
+	[3x3_Tools.Drops]
+		#Range: 0.0 ~ 1.0
+		"Dust drop chance modifier" = 0.5
+		#Range: 0.0 ~ 1.0
+		"Second item drop chance modifier (Suger cane & Cactus)" = 0.05
+		#Range: 0.0 ~ 1.0
+		"Spawn egg drop chance modifier (If Skyblock is set to TRUE)" = 0.005
+
+	[3x3_Tools.Durability]
+		"Iron Tier durability modifier" = 375
+		"Diamond Tier durability modifier" = 2342
+		"Stone Tier durability modifier" = 197
+		"Golden Tier durability modifier" = 48
+
+[Viagre]
+	#Tick Delay modifier.
+	#Range: 1 ~ 20
+	"Tick Delay" = 2
+	#Growth radius size modifier.
+	#Range: 1 ~ 16
+	"Growth Radius" = 8
+
+[Cobblestone_Generator]
+
+	[Cobblestone_Generator.Item_Return_Rate]
+		"Wooden Pickaxe cobblestone return amount" = 8
+		"Stone Pickaxe cobblestone return amount" = 16
+		"Iron Pickaxe cobblestone return amount" = 32
+		"Golden Pickaxe cobblestone return amount" = 32
+		"Diamond Pickaxe cobblestone return amount" = 64
+
+	[Cobblestone_Generator.Tool_Durability_Cost]
+		"Iron Pickaxe durability cost" = 32
+		"Wooden Pickaxe durability cost" = 8
+		"Golden Pickaxe durability cost" = 32
+		"Stone Pickaxe durability cost" = 16
+		"Diamond Pickaxe durability cost" = 64
+
+[Troll_Item]
+	"Gives the player the Troll item(s) when loading into a world" = false
+
+[Poking_Stick]
+	"Poking Stick max use modifier" = 64
+
